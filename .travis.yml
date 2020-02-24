@@ -12,6 +12,3 @@ addons:
 script:
 - ant build
 - sonar-scanner
-
-git:
-  depth: false
